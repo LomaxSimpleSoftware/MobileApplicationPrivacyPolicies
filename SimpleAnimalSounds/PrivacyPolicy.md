@@ -1,65 +1,50 @@
 **Privacy Policy**
 
-Lomax Simple Software built the Simple Animal Sound app as an Ad Supported app. This SERVICE is provided by Lomax Simple Software at no cost and is intended for use as is.
+Lomax Simple Software built the Simple Animal Sounds app as an ad-supported app. This SERVICE is provided by Lomax Simple Software at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
-
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Simple Animal Sound unless otherwise defined in this Privacy Policy.
+This page is used to inform visitors regarding our policies on the collection, use, and disclosure of information if anyone decides to use our Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+Simple Animal Sounds does **not** collect, transmit, or store any personal information. The app has no accounts, no sign-in, and no analytics or crash-reporting SDKs.
 
-The app does use third-party services that may collect information used to identify you.
+The only data the app saves is your local preference settings (light/dark theme and autoplay choice). These are stored on your device and never leave it.
 
-Link to the privacy policy of third-party service providers used by the app
+The app displays banner advertisements served through Google AdMob, a third-party service. Ad requests from this app are tagged as child-directed (COPPA) and under-age-of-consent (GDPR): ads are non-personalized, the app transmits no advertising identifier with ad requests, and only "G" (General audiences) rated ads are requested.
+
+Link to the privacy policy of the third-party service used by the app:
 
 - [Google Play Services](https://www.google.com/policies/privacy/)
 - [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
-**Log Data**
+**In-App Reviews**
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+The app may occasionally show Google Play's in-app review prompt, which is operated by Google. We receive no personal data from this flow.
 
-**Cookies**
+**Children's Privacy**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Simple Animal Sounds is designed to be enjoyed by all ages, including children. We do not knowingly collect any personal information from anyone, of any age. Advertising within the app is configured for a child-directed audience: only non-personalized, G-rated ads are served.
 
 **Service Providers**
 
-We may employ third-party companies and individuals due to the following reasons:
-
-- To facilitate our Service;
-- To provide the Service on our behalf;
-- To perform Service-related services; or
-- To assist us in analyzing how our Service is used.
-
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+We may employ third-party companies to facilitate our Service (currently: ad serving through Google AdMob). These third parties have access to limited information as described in their own privacy policies linked above, and are obligated not to use it for any other purpose.
 
 **Security**
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+We value your trust. Because the app collects no personal information, there is no personal data on our side to protect or breach. Remember that no method of transmission over the internet is 100% secure, and we cannot guarantee the absolute security of third-party services such as ad networks.
 
 **Links to Other Sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-**Children’s Privacy**
-
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+This Service may contain links to other sites (for example, within ads). These external sites are not operated by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 **Changes to This Privacy Policy**
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2024-01-26
+This policy is effective as of 2026-09-28.
 
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at lomaxsimplesoftware@gmail.com.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+This privacy policy page was originally created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/), then rewritten for accuracy for the 2026 release.
